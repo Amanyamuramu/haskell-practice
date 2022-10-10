@@ -1,0 +1,1 @@
+noot x = if x then False else True
